@@ -1,0 +1,1 @@
+printf("%d", binarySearch(n, arra, key));
